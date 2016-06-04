@@ -12,10 +12,10 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-//    private static final String WIKI_URL =
-//            "http://wikipedia.org/w/api.php?action=opensearch&search=Android";
+    private static final String WIKI_URL =
+            "http://wikipedia.org/w/api.php?action=opensearch&search=Android";
 
-    private static final String WIKI_URL = "http://baidu.com";
+//    private static final String WIKI_URL = "http://bing.com";
 
 //    private static final String WIKI_URL = "http://www.google.com";
 
